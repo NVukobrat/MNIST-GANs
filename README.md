@@ -10,6 +10,12 @@ The first network is usually called _Generator_, while the second _Discriminator
 
 This repo demonstrates how GANs work with simple generative and discriminative networks.  The MNIST dataset represents is a reference for the generative model.
 
+### Repo explination
+- source.py - Main file for training the GANs models.
+- ./api - Contains rest of relevant project code.
+- ./assets/images - Contains images used in this README.md file.
+- ./assets/checkpoint - Contains the last checkpoint produced during training the model.
+
 ### Models
 ##### Generator
 The Generator model does upsampling to produces images from random noise. It takes random noise as an input, then upsamples several times until reach desired image size (in this case 28x28x1).
