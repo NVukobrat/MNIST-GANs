@@ -58,23 +58,11 @@ The Discriminator is a simple CNN-based image classifier. It outputs positive va
 ### Training results
 Training has done on 1k epochs. Bellow are examples during this process.
 
-##### 1 - 5 epoch
-![](assets/images/image_at_epoch_0001.png)
-![](assets/images/image_at_epoch_0002.png)
-![](assets/images/image_at_epoch_0003.png)
-![](assets/images/image_at_epoch_0004.png)
-![](assets/images/image_at_epoch_0005.png)
+#### 1 epoch
+![After 1 epoch](assets/images/image_at_epoch_0001.png)
 
-##### 496 - 500 epoch
-![](assets/images/image_at_epoch_0496.png)
-![](assets/images/image_at_epoch_0497.png)
-![](assets/images/image_at_epoch_0498.png)
-![](assets/images/image_at_epoch_0499.png)
-![](assets/images/image_at_epoch_0500.png)
+#### 500 epoch
+![After 500 epoch](assets/images/image_at_epoch_0500.png)
 
-##### 996 - 1000 epoch
-![](assets/images/image_at_epoch_0996.png)
-![](assets/images/image_at_epoch_0997.png)
-![](assets/images/image_at_epoch_0998.png)
-![](assets/images/image_at_epoch_0999.png)
-![](assets/images/image_at_epoch_1000.png)
+#### 1000 epoch
+![After 1000 epoch](assets/images/image_at_epoch_1000.png)
